@@ -1,0 +1,11 @@
+/.idea/
+.DS_Store
+vendor/
+composer.lock
+phpdoc.xml
+docs/
+/examples/log/*
+!examples/log/.gitkeep
+/examples/cache/*
+!examples/cache/.gitkeep
+coverage/
